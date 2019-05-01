@@ -42,7 +42,12 @@ Imagen Calendario
 
 <img src="http://www.practeck.co/imgamigo/amigo7.jpg" alt="imagen inicio amigo" height="600" width="auto">
 
+** OJO SUPER IMPORTANTE ** 
 
+Requiere para su uso de dos plugins que son gratuitos 
+
+BaseElements 
+36oWorks Scriptmaster 5.09
 
 Saludos,
 
