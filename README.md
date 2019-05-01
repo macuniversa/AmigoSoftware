@@ -53,6 +53,6 @@ Saludos,
 
 
 
-Darío Esteban González David 
-Director Ejecutivo Practeck 
+Darío Esteban González David </br>
+Director Ejecutivo Practeck </br>
 Desarrollador Software Amigo
