@@ -1,6 +1,6 @@
 # AmigoSoftware
 
-<img src="http://www.practeck.co/imgamigo/amigoinicio.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigoinicio.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 
 
@@ -17,37 +17,32 @@ Ver las imagenes del software:
 
 Imagen Inicio
 
-<img src="http://www.practeck.co/imgamigo/amigo1.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo1.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 Imagen Modulos
-<img src="http://www.practeck.co/imgamigo/amigo2.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo2.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 
 Imagen Ficha Paciente
-<img src="http://www.practeck.co/imgamigo/amigo3.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo3.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 Imagen Admisiones
 
-<img src="http://www.practeck.co/imgamigo/amigo4.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo4.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 Imagen historia Clinica
 
-<img src="http://www.practeck.co/imgamigo/amigo5.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo5.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 Imagen Variables Globales
 
-<img src="http://www.practeck.co/imgamigo/amigo6.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo6.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
 Imagen Calendario
 
-<img src="http://www.practeck.co/imgamigo/amigo7.jpg" alt="imagen inicio amigo" height="600" width="auto">
+<img src="http://www.practeck.co/imgamigo/amigo7.jpg" alt="imagen inicio amigo" height="auto" width="100%">
 
-<style>
-img {
-  width: 100%;
-  height: auto;
-}
-</style>
+
 ** OJO SUPER IMPORTANTE ** 
 
 Requiere para su uso de dos plugins que son gratuitos 
