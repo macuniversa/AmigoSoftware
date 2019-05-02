@@ -42,6 +42,12 @@ Imagen Calendario
 
 <img src="http://www.practeck.co/imgamigo/amigo7.jpg" alt="imagen inicio amigo" height="600" width="auto">
 
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
 ** OJO SUPER IMPORTANTE ** 
 
 Requiere para su uso de dos plugins que son gratuitos 
