@@ -12,7 +12,7 @@ Puedes descargar y modificar el contenido, lo que no es permitido es venderlo y 
 Espero les sirva muchisimo y lo usen, siempre estaré dispuesto a solucionar dudas y que mejoremos el sofware entre todos, el software requiere una copia de Filemaker Advenced 15, 16 o 17 para ser modificado, no representamos a Filemaker Inc, ni Apple, dicha copia deberá adquirirla en www.filemaker.com, hay copias de prueba o puede comprar su licencia. 
 
 
-https://raw.githubusercontent.com/practeck/AmigoSoftware/master/Captura%20de%20pantalla%202019-04-05%20a%20la(s)%207.49.50%20a.%20m..png
+
 
 
 ** OJO SUPER IMPORTANTE ** 
