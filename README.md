@@ -12,6 +12,15 @@ Puedes descargar y modificar el contenido, lo que no es permitido es venderlo y 
 Espero les sirva muchisimo y lo usen, siempre estaré dispuesto a solucionar dudas y que mejoremos el sofware entre todos, el software requiere una copia de Filemaker Advenced 15, 16 o 17 para ser modificado, no representamos a Filemaker Inc, ni Apple, dicha copia deberá adquirirla en www.filemaker.com, hay copias de prueba o puede comprar su licencia. 
 
 
+<img src="http://www.practeck.co/amigo/amigo1.jpg" >
+<img src="http://www.practeck.co/amigo/amigo2.jpg" >
+<img src="http://www.practeck.co/amigo/amigo3.jpg" >
+<img src="http://www.practeck.co/amigo/amigo4.jpg" >
+<img src="http://www.practeck.co/amigo/amigo5.jpg" >
+<img src="http://www.practeck.co/amigo/amigo6.jpg" >
+
+
+
 
 
 
