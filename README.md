@@ -1,7 +1,7 @@
 # AmigoSoftware
 
 
-<img src"http://www.practeck.co/amigo/amigoinicio.jpg" >
+<img src="http://www.practeck.co/amigo/amigoinicio.jpg" >
 
 
 
